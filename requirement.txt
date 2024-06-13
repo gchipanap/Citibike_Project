@@ -1,0 +1,8 @@
+flask Flask-RESTful
+flask sqlalchemy pyodbc
+flask-sqlalchemy
+pyspark
+pyspark[sql]
+requests
+beautifulsoup4
+beautifulsoup4 lxml
